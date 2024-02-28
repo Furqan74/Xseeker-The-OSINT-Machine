@@ -76,7 +76,7 @@ URLextractor: https://github.com/eschultze/URLextractor
 ![5](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/a8936de7-b191-434c-97a8-c5df085a47da)
 
 
-**These are the list of bookmarks that have been configured in the browser. Please find the screenshot attached for reference**
+**These are the list of bookmarks that have been configured in the Firefox browser. Please find the screenshot attached for reference**
 
 ![6](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/551d29b7-483f-4b3f-be8a-872857cd3610)
 
@@ -125,6 +125,10 @@ These tools can help you identify your targeted username and email addresses and
 **IP Search:**
 
 OSINT (Open Source Intelligence) tools and techniques that can be used for IP address investigation.
+
+**The machine consist of many TOR Browser extensions which are pretty useful for DarkWeb OSINT.**
+
+![7](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/e8089d73-9671-4a42-8ec1-10fda75b0e51)
 
 
 **Remember to respect privacy laws and terms of service when conducting OSINT. Always verify the credibility of sources and cross-reference information from multiple sources for accuracy. Additionally, be aware that the availability and effectiveness of these tools can change over time, so it's crucial to stay informed about updates and new developments in the field of OSINT.**
