@@ -29,7 +29,7 @@ Please find the list of all the tools that can be used to perform Osint in our X
 
 Please find their GitHub Repository links mentioned beside their names as well for your reference as well
 
-Phishing:
+**Phishing:**
 Camphish: https://github.com/baradatipu/CamPhish
 Maxphisher: https://github.com/KasRoudra/MaxPhisher
 Zphisher: https://github.com/htr-tech/zphisher
@@ -38,7 +38,7 @@ Please find the path and screenshot for reference:
     
 ![293507418-d1beda20-e3fb-41a3-8c93-62b6f2573f8e](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/b6c62502-a933-4202-abae-230f3e0ef604)
 
-Social Engineering:
+**Social Engineering:**
 Daprofiler: https://github.com/dalunacrobate/DaProfiler
 email2phonenumber: https://github.com/martinvigo/email2phonenumber
 GoMapEnum: https://github.com/nodauf/GoMapEnum
@@ -70,7 +70,7 @@ These are the list of bookmarks that have been configured in the browser. Please
 These are all the categories covered by our machine that will help in performing Osint
 
 
-**AREA AND EVENT Monitoring Bookmarks**
+**AREA AND EVENT Monitoring Bookmarks:**
 In the context of OSINT machines, area and event monitoring bookmarks are tools or techniques used to systematically keep track of relevant information within a specific geographical area or related to a particular event. These bookmarks help OSINT analysts stay updated on developments and changes in their areas of interest
 
 
@@ -91,11 +91,11 @@ In OSINT, reporting tools are often used to compile and present findings in a st
 Information collecting tools based on bookmarks in OSINT typically involve the use of browser bookmarks or specialized tools to organize and access a curated list of websites and resources relevant to an investigation
 
 
-**Country Specific tools**
+**Country Specific tools:**
 When it comes to collecting country-specific information, there are various tools and resources available. Here are some tools and methods you can use, but keep in mind that the landscape of OSINT tools can change, and it's essential to stay updated with the latest tools and techniques:
 
 
-**Verification and Fact Checking tools**
+**Verification and Fact Checking tools:**
 Verification and fact-checking are crucial steps in ensuring the accuracy and reliability of the information gathered. Here are some tools and methods that you can use as bookmarks or integrate into your OSINT workflow for verification and fact-checking.
 
 **Email and Username Breach:**
