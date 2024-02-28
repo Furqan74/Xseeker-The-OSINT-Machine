@@ -1,6 +1,9 @@
 # Xseeker-The-OSINT-Machine
 Welcome to our advanced open-source intelligence (OSINT) search engine X-Seeker – your gateway to unlocking a wealth of information from the vast expanses of the internet. In an era where information is power, our OSINT search engine is designed to empower individuals and organizations with the tools to gather, analyze, and leverage publicly available data for various purposes.
 
+![2](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/1eafc8e7-dae1-40d3-bf5f-c6366ba4efb8)
+
+
 What is OSINT?
 
 Open-source intelligence, or OSINT, is the practice of collecting and analyzing information from publicly available sources. These sources can include websites, social media platforms, news articles, government records, and more. OSINT is a critical component of modern intelligence gathering, investigations, and research, providing valuable insights without resorting to classified or confidential information.
