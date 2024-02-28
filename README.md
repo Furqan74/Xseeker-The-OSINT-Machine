@@ -55,9 +55,14 @@ X-osint
 
 Please find the path and screenshot for reference:
 
+![3](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/e658316c-b785-4936-b074-d88204dadc52)
+
+
 **Website Copier:**
 
 Httrack
+
+![4](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/ff1f04df-7d15-4aab-ad0f-044ef3825d9d)
 
 
 **Website Scanning:**
@@ -68,7 +73,12 @@ Sublist3r: https://github.com/aboul3la/Sublist3r
 Sudomy: https://github.com/screetsec/Sudomy
 URLextractor: https://github.com/eschultze/URLextractor
 
-These are the list of bookmarks that have been configured in the browser. Please find the screenshot attached for reference
+![5](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/a8936de7-b191-434c-97a8-c5df085a47da)
+
+
+**These are the list of bookmarks that have been configured in the browser. Please find the screenshot attached for reference**
+
+![6](https://github.com/Furqan74/Xseeker-The-OSINT-Machine/assets/54634690/551d29b7-483f-4b3f-be8a-872857cd3610)
 
 These are all the categories covered by our machine that will help in performing Osint
 
